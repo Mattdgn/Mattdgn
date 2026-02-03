@@ -12,9 +12,9 @@ Ex 42 Paris · 42Blockchain Club
 ---
 
 <p align="center">
-  <a href="https://mathys-cognefoucault.fr" target="_blank">🚀 Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://x.com/MattCogne" target="_blank">🐦 Twitter</a> &nbsp;•&nbsp;
-  <a href="https://t.me/Mathys_Cogne" target="_blank">💬 Telegram</a> &nbsp;•&nbsp;
+  <a href="https://gmgm.fr" target="_blank">🚀 Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://x.com/mattdgn" target="_blank">🐦 Twitter</a> &nbsp;•&nbsp;
+  <a href="https://t.me/mttdgn" target="_blank">💬 Telegram</a> &nbsp;•&nbsp;
   <a href="https://calendar.app.google/9Btfik6pCrQMSr7s6" target="_blank">📅 Schedule</a>
 </p>
 
