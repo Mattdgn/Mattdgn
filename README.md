@@ -4,7 +4,7 @@
 
 
 <h4 align="center">
-Solana Dev - Building <a href="https://x.com/EatwithNomu" target="_blank">@EatwithNomu</a> 🐡<br/>
+Solana Dev - Building <a href="https://x.com/EatwithNomu" target="_blank">Nomu</a> 🐡<br/>
 Iterating like a scientist, shipping like a degen.<br/>
 Ex 42 Paris · 42Blockchain Club
 </h4>
