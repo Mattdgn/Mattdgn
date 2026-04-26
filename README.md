@@ -5,7 +5,7 @@
 <br/>
 
 <h4 align="center">
-Solana dev shipping consumer crypto.
+Solana dev shipping consumer crypto.<br/>
 Building <a href="https://x.com/EatwithNomu" target="_blank">Nomu</a> 🐡 · @Ferno_ag member<br/>
 Ex 42 · 42Blockchain Club
 
