@@ -15,8 +15,8 @@ Ex 42 · 42Blockchain Club
 
 <p align="center">
   <a href="https://gmgm.fr" target="_blank">gmgm.fr</a> &nbsp;•&nbsp;
-  <a href="https://t.me/mttdgn" target="_blank">Telegram</a>
-  <a href="https://x.com/mattdgn" target="_blank">X</a> &nbsp;•&nbsp;
+  <a href="https://t.me/mttdgn" target="_blank">Telegram</a>  &nbsp;•&nbsp;
+  <a href="https://x.com/mattdgn" target="_blank">X</a>
 </p>
 
 <h3 align="center"> </h3>
